@@ -1,6 +1,10 @@
+using Travel.API.Extensions;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+
+builder.Services.RegisterDb(builder.Configuration);
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -23,3 +27,7 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
+
+
+//add-migration [name]
+//update-database

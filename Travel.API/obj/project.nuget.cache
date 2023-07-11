@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "729Vr3At0ac2YDhC01SIm9NGi9S8JxeZvH0NrlgoNWGxS5urP4jiQZqTkdPF2GbD+2PRcmrAM2DuVIV2+iMskA==",
+  "dgSpecHash": "xHVKvnxYoUM9Iv+5AH4ldOAalKJc8phEgjlHqnOR+UaumzhYIKRasd/ZptxsN90zUQk8m2yEVqm/BcL8bq4gpQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Codaxy\\Desktop\\ASP NET\\Travel.API\\Travel.API\\Travel.API.csproj",
   "expectedPackageFiles": [
@@ -25,6 +25,8 @@
     "C:\\Users\\Codaxy\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\Codaxy\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
     "C:\\Users\\Codaxy\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\Codaxy\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
+    "C:\\Users\\Codaxy\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\7.0.4\\npgsql.entityframeworkcore.postgresql.7.0.4.nupkg.sha512",
     "C:\\Users\\Codaxy\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "C:\\Users\\Codaxy\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "C:\\Users\\Codaxy\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
