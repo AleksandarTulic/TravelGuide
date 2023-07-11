@@ -41,3 +41,4 @@ C:\Users\Codaxy\Desktop\ASP NET\Travel.API\Travel.API\bin\Debug\net7.0\Mono.Text
 C:\Users\Codaxy\Desktop\ASP NET\Travel.API\Travel.API\bin\Debug\net7.0\Npgsql.dll
 C:\Users\Codaxy\Desktop\ASP NET\Travel.API\Travel.API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 C:\Users\Codaxy\Desktop\ASP NET\Travel.API\Travel.API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Codaxy\Desktop\ASP NET\Travel.API\Travel.API\bin\Debug\net7.0\Newtonsoft.Json.dll

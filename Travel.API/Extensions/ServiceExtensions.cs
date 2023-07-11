@@ -1,6 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using System.Runtime.CompilerServices;
+using Travel.API.Contracts;
 using Travel.API.Entities.Context;
+using Travel.API.Repositories;
 
 namespace Travel.API.Extensions
 {
@@ -14,6 +16,13 @@ namespace Travel.API.Extensions
             });
 
             return services;
-        } 
+        }
+
+        public static IServiceCollection AddRepositories(this IServiceCollection services)
+        {
+            services.AddScoped<IDestinationRepository, DestinationRepository>();
+
+            return services;
+        }
     }
 }
